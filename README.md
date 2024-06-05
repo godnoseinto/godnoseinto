@@ -30,6 +30,8 @@ Puedes ver mi curriculum vitae <a href="Curriculum_Cristian_Gamboa.pdf">aquí</a
   <li>MariaDB</li>
 </ul>
 
+# Mis proyectos
+
 # Experiencia Laboral
 
 Empresa: Corporativo EMETH
